@@ -1,8 +1,8 @@
 [DEMO LINK](https://encrt.github.io/tt1_roga_i_kopyta/)
 
 Тестовое задание
-Ссылка на макет в Figma:
-https://www.figma.com/file/wvkEXGLJt8nYvXvdtds0hk/Untitled?node-id=0%3A1 
+Ссылка на макет в [Figma](https://www.figma.com/file/wvkEXGLJt8nYvXvdtds0hk/Untitled?node-id=0%3A1)
+
 Макет представляет себой облегченную копию того, что мы обычно верстаем. В реальности чуть сложнее - у нас есть формы и необычное расположение графические элементов, взаимодействие с посторонним API посредством AJAX запросов. 
 Задача
 1) Сверстать данный макет. Бутстрап не используем.
