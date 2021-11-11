@@ -1,4 +1,4 @@
-[DEMO LINK](https://encrt.github.io/tt1_roga_i_kopyta/)
+[DEMO LINK](https://encrt.github.io/TT1_Roga_i_Kopyta/)
 
 Тестовое задание
 Ссылка на макет в [Figma](https://www.figma.com/file/wvkEXGLJt8nYvXvdtds0hk/Untitled?node-id=0%3A1)
