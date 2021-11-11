@@ -129,6 +129,18 @@
       margin-bottom: 6%;
       transition: box-shadow 0.5s;
 
+      @include onScreen {
+        margin-bottom: 30%;
+      }
+
+      @include onTablet {
+        margin-bottom: 20%;
+      }
+
+      @include onMobile {
+        margin-bottom: 7%;
+      }
+
       &:hover {
         box-shadow: 0 0 16px 8px #0726ce;
       }
